@@ -1,0 +1,28 @@
+aiofiles
+starlette
+uvicorn
+jinja2
+python-multipart
+orm~=0.2
+typesystem~=0.3
+databases[sqlite]
+
+# Tests
+autoflake
+black
+codecov
+flake8
+isort
+mypy
+pytest
+pytest-cov
+requests
+
+# Documentation
+mkdocs
+mkdocs-material
+mkautodoc
+
+# Packaging
+twine
+wheel 
